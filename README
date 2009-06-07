@@ -1,0 +1,12 @@
+Facer is a small script that uses OpenCV (http://opencv.willowgarage.com/wiki/) and 
+its Ruby bindings (http://github.com/ryanfb/ruby-opencv/tree/master)
+to perform face detection using several detectors on several images. 
+
+Run it by typing (example): 
+ruby facer.rb "/Users/myname/pictures/**/*.{jpg|gif}"
+
+This script take inspiration from a very good speech by http://coryforsyth.com/ @ Euruko2009
+You can have a look at a sample output page here: http://www.sandropaganotti.com/wp-content/facer/3517443572.jpg.html
+
+Sandro Paganotti
+
